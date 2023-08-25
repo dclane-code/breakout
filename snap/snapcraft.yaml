@@ -26,5 +26,6 @@ apps:
     command: ./breakout
     plugs:
     - home
+    - ppp       # for cap setuid
 
 
